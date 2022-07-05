@@ -13,7 +13,7 @@ The user can click the save button to the right of each row to save the content 
 
 
 # LESSONS LEARNED
-This was truly an exercise is learning to navigate through the DOM and learn the use of jQuery, while also implementing some Bootstrap styling. 
+This was truly an exercise in learning to navigate through the DOM and learning the use of jQuery, while also implementing some Bootstrap styling. 
 
 # IMPROVEMENTS 
 A delete button to the right of the save button would be a nice addition for future work. This would allow the user to delete all or line by line without having to delete the content manually, then press the save button.
