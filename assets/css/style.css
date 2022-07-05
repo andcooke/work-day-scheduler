@@ -17,10 +17,11 @@ body {
   .jumbotron {
     text-align: center;
     background-color: transparent;
-    color: #000000;
+    color: white;
     border-radius: 0;
-    border-bottom: 10px solid black;
+    border-bottom: 10px solid #fed157;
     padding-bottom: 5px;
+    background-color: #06AED5;
   }
   
   .description{
